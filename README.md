@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Tips In!](https://user-images.githubusercontent.com/56776758/121272020-8c4f9580-c88a-11eb-976b-a8c7920559f6.gif)
 
 ## Notes
 
